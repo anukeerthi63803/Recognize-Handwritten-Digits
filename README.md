@@ -1,7 +1,5 @@
 # Recognize-Handwritten-Digits
 
-![Handwritten Digit Recognition]()
-
 This repository contains a project that focuses on recognizing handwritten digits using machine learning techniques. The goal of this project is to build and train a model that can accurately classify hand-drawn digits into the numbers 0-9. The model is trained on a popular dataset like MNIST and implemented using [Python](https://www.python.org/) and [TensorFlow](https://www.tensorflow.org/).
 
 ## Table of Contents
